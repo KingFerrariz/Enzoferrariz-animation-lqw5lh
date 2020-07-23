@@ -39,7 +39,7 @@ class App extends React.Component {
       <div>
         <dl>
           <dt>
-            Animate:
+           WelCome:
           </dt>
           <dd>
             <button className="k-button" onClick={this.onClick}>Animate</button>
